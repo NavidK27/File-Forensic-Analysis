@@ -25,7 +25,9 @@ This tool applies the following checks:
 ```
 ---HERE ARE YOUR BIG FILES---!
     68 MB   video/quicktime      /full/path/video.mov
-!---KEYWORDS FOUND---!2     text/plain           (/Users/navidkagalwalla/Desktop/Dummy/tt.txt)
+!---KEYWORDS FOUND---!
+
+2     text/plain           (/Users/navidkagalwalla/Desktop/Dummy/tt.txt)
 	- s together, and get access to more features. My password is pass and username is user. Kidding that a pass       
  	- and get access to more features. My password is pass and username is user. Kidding that aint it.' pass
 
